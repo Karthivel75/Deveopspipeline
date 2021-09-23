@@ -1,0 +1,7 @@
+C:\Jenkins\microservice-1\src\main\java\com\example\microservice\microservice1\Microservice1Application.java
+C:\Jenkins\microservice-1\src\main\java\com\example\microservice\microservice1\controller\PostsController.java
+C:\Jenkins\microservice-1\src\main\java\com\example\microservice\microservice1\service\PostsServiceImpl.java
+C:\Jenkins\microservice-1\src\main\java\com\example\microservice\microservice1\model\Posts.java
+C:\Jenkins\microservice-1\src\main\java\com\example\microservice\microservice1\repo\PostsDao.java
+C:\Jenkins\microservice-1\src\main\java\com\example\microservice\microservice1\model\CommentsDto.java
+C:\Jenkins\microservice-1\src\main\java\com\example\microservice\microservice1\service\PostsService.java

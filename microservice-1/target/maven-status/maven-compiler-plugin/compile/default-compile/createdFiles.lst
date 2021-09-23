@@ -1,0 +1,7 @@
+com\example\microservice\microservice1\repo\PostsDao.class
+com\example\microservice\microservice1\service\PostsService.class
+com\example\microservice\microservice1\model\CommentsDto.class
+com\example\microservice\microservice1\model\Posts.class
+com\example\microservice\microservice1\Microservice1Application.class
+com\example\microservice\microservice1\service\PostsServiceImpl.class
+com\example\microservice\microservice1\controller\PostsController.class
